@@ -1,0 +1,41 @@
+file_1:
+Best time: 0.600000
+Best NRMSE: 0.479957
+Best iters: 450
+Best ErrorFunc: 0.478452
+
+file_2:
+Best time: 0.800000
+Best ErrorFunc: 0.191255
+Best iters: 5900
+Best ErrorFunc: 0.191232
+
+file_3:
+Best time: 2.500000
+Best ErrorFunc: 0.531688
+Best iters: 3200
+Best ErrorFunc: 0.530720
+
+file_4:
+Best time: 0.800000
+Best ErrorFunc: 0.429822
+Best iters: 5250
+Best ErrorFunc: 0.429809
+
+file_5:
+Best time: 0.800000
+Best ErrorFunc: 0.160904
+Best iters: 3350
+Best ErrorFunc: 0.160667
+
+file_6 :
+Best time: 0.300000
+Best ErrorFunc: 0.463050
+Best iters: 7450
+Best ErrorFunc: 0.463056
+
+file_7:
+Best time: 0.400000
+Best ErrorFunc: 0.262470
+Best iters: 5850
+Best ErrorFunc: 0.262462
