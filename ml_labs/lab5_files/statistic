@@ -1,0 +1,8 @@
+file_1
+dataset = 1 accuracy = 0.8635312259059368 h = 2
+dataset = 1 accuracy = 0.9969159599074788 h = 3
+dataset = 1 accuracy = 0.9966589565664353 h = 4
+dataset = 1 accuracy = 0.995887946543305 h = 5
+Оптимальная = 3
+
+file_2
