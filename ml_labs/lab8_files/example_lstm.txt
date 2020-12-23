@@ -1,0 +1,222 @@
+--------- Для wonderland ------------
+На 20 эпохе:
+Start:
+" use he taught us,” said the mock turtle
+angrily: “really you are very dull!”
+
+“you ought to be asham "
+
+Gen:
+e ”our aaak ” shiught alice. “in wou doo’t be ieve to teye toee a aut of the goerte  a dane sal in the woide to the saatin and toeering the was toe care to tee thet had so kene thet would tae it tas to and taid to herself  “ho wou don’t know then toued ”hu  so yhu  soe ko wsu to tete toeekee,”
+
+“io you din toe maree caal ”out aaae tote t alice seidieed “o herself an the call an in  she woold then the had been to the tabte
+and the whrte tabbit was too thie the gar sn tee thete was the harter was
+Done.
+
+
+На 20ой эпохе:
+Start:
+" s time there were
+_two_ little shrieks, and more sounds of broken glass. “what a number
+of cucumber- "
+Gen:
+niee,” she said to herself, “aot do a lort oi the sabei.
+“io wou din thet tou,” said the katter.
+“io an all ” said the konk,
+“io toer ain taal t taad to her here to aedin, to teet toee a tiilg to tone toeng the saste  bnd the gal beden to tee it tas to the taste oo the tabte. and the was so tele the was aoonge to the tabbit shet whse the tas af in anl ohre toehe the had been thet she was aolngg to the katter, and she was aoling to tee it tas to the taste oo the table. “ih whu was a lanter aro
+Done.
+
+На 10ой эпохе:
+Start:
+" ?” for, you see, as she couldn’t answer
+either question, it didn’t much matter which way she put it. "
+Gen:
+and the sabbit wo tee thet she was ao in whe woiee to the tas io a lott of the tabti  and the sas ao the was so tene the har her an the was sh the toeee th the har her an the was sh the toeee th the har her an the was sh the toeee th the har her an the was sh the toeee th the har her an the was sh the toeee th the har her an the was sh the toeee th the har her an the was sh the toeee th the har her an the was sh the toeee th the har her an the was sh the toeee th the har her an the was sh the t
+Done.
+
+wonderland - with adam function
+wonderland2 - с измененным текстом и стандартным sgd
+wonderland3 - текст оставляем тем же, но берем конкретный sgd = SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
+wonderland4 - seq_length = 50, измененный текст
+wonderland5 - как предыдущее, но с еще одним слоем LSTM и с количеством эпох 30
+robinzon2 - как wonderland4 только на русском тексте
+
+удаляя пустые строки
+saltan - просто как wonderland4, но с len = 30
+saltan2 - saltan1 + слой + len = 50
+
+На второй эпохе почти всегда the the the...
+
+
+wonderland4 - 19
+Start:
+ down looking for it
+while the rest of the party w
+Gen:
+as the ming and the qabbit sas to the tore the mock turtle would the moog the had not the doom the mook the had not to the form and the qabbit sas to the tore the mock turtle would the moog the had not the doom the mook the had not to the form and the qabbit sas to the tore the mock turtle would the moog the had not the doom the mook the had not to the form and the qabbit sas to the tore the mock turtle would the moog the had not the doom the mook the had not to the form and the qabbit sas to th
+Done.
+
+wonderland5 - 30
+Start:
+urtle in a
+tone of great relief now at ours they h
+Gen:
+ad taken the had some of the sueen and the mock turtle said to herself in the distance and the mock turtle said to herself in the distance and the mock turtle said to herself in the distance and the mock turtle said to herself in the distance and the mock turtle said to herself in the distance and the mock turtle said to herself in the distance and the mock turtle said to herself in the distance and the mock turtle said to herself in the distance and the mock turtle said to herself in the distan
+Done.
+
+--------- saltan ----------
+
+saltan - 29
+Start:
+речь последней по всему
+полюби
+
+Gen:
+т сои боготы,
+в тое бот гл зоязь поилтн
+таре нооро иола гоязи,
+в вое ло оор жа коязь птодот
+иорот вол орооттелй
+оо ооиот моря прдлтнтййй
+онооо иоря иоля поиотттйй
+о повеиомой бабой болот.
+пнтзо ноязь поиврихий,
+с ставьем бабой бабарихой
+о ооре мотеи но воготит,
+в тоееи на поре жлжетт,
+п парт на соре дллетт
+тодот саря слилалт,
+и карн но иорит вол ооооот иор нрооталт ио оооотме
+и торе нотои на поооот,
+в во но ооре в вовоо иолот иоязь пвотнн иорот вол ороотта
+снязи в вости олоноиос
+иолот ворзи иото
+
+
+saltan2-30
+Start:
+ съедает -
+диво б дивное хотел
+перенесть я в мой у
+
+Gen:
+ер блродтй и п путт и путтоил,
+поотон оа море делятя,
+на дораблики подаиит"
+делиа пасенки поеит,
+с симет море нак налетн;
+да прдснит,
+даки поденн".
+говорят в нота пек поиитать
+т дорой бое стветть;
+д тод кехех блан птолить
+и порт и потттна поланиной
+о поварихо м доларе
+да прокитан и поиттн дота.
+по ва лочеи нн поистны,
+сооател на поязь г иорабль птдита
+с кирт дотоо новетать в госто,
+и пи пирит пабе поклом".
+царь салтан дивится чуду.
+"ко баливи  да нрвчдо,
+содны дор оооя норя недит,
+поовит не нотя
+
+---------- robinzon ----------
+
+robinzon2-20
+Start:
+рь семеро хорошо вооруженных людей и я не сомневал
+
+Gen:
+ся что он поиалал меня в соо какаоое соасти соорож но вое это привело мань в соо какаоое соасти соорож но вое это привело мань в соо какаоое соасти соорож но вое это привело мань в соо какаоое соасти соорож но вое это привело мань в соо какаоое соасти соорож но вое это привело мань в соо какаоое соасти соорож но вое это привело мань в соо какаоое соасти соорож но вое это привело мань в соо какаоое соасти соорож но вое это привело мань в соо какаоое соасти соорож но вое это привело мань в соо как
+Done.
+
+
+
+---------- mark ----------------
+Alphabet size:  34
+n = 3, k = 10, m = 100
+Number of windows:  3319
+Start:
+за царевно
+Gen:
+го салтан диво
+молодые
+все раз
+тет и в гости то на белка под корабликаны как разрешки в ответел на б
+
+Alphabet size:  34
+n = 4, k = 15, m = 100
+Number of windows:  7714
+Start:
+пушки с пристан
+Gen:
+и палате
+на под косой бабарихой
+с сватьей бабарихой
+с сватьей бабарихой
+с сватьей бабарихой
+с сватье
+
+Alphabet size:  34
+n = 4, k = 15, m = 100
+Number of windows:  7714
+Start:
+мимо острова бу
+Gen:
+яна
+вот уж издали весь свете чудо
+в свете чудо
+в свете чудо
+в свете чудо
+в свете чудо
+в свете чудо
+в
+
+Alphabet size:  34
+n = 5, k = 15, m = 100
+Number of windows:  11051
+Start:
+вышли вон и в п
+Gen:
+уть вам господа
+по морю по окияну
+к славного салтан дивится чуду
+если только буду
+чудный остров наве
+
+Alphabet size:  34
+n = 6, k = 15, m = 200
+Number of windows:  12920
+Start:
+ель растет пере
+Gen:
+д дворцом
+а под ней хрустальный дом
+белка песенки поет
+да орешки не простые
+все равны как на подбор
+с ними дядька черномор
+это диво так уж диво
+море вздуется бурливо
+закипит подымет вой
+хлынет на бере
+
+
+------- elza ----------
+
+Start:
+А за окном
+Gen:
+ уже сугробы
+и мы с тобой подружки
+но ты молчишь
+признайся почему
+за окном уже сугробы
+снеговик нас ждет давно
+но не вижусь я с тобой подружки
+но ты молчишь
+признайся почему
+за окном уже сугробы
+снего
