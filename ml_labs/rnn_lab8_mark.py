@@ -21,9 +21,9 @@ def format_file(filename, outfilename):
 
 
 # format_file("lab8_files/saltan.txt", "lab8_files/format_saltan.txt")
-# filename = "lab8_files/format_saltan.txt"
-format_file("lab8_files/elza.txt", "lab8_files/format_elza.txt")
-filename = "lab8_files/format_elza.txt"
+filename = "lab8_files/format_saltan.txt"
+# format_file("lab8_files/elza.txt", "lab8_files/format_elza.txt")
+# filename = "lab8_files/format_elza.txt"
 raw_text = open(filename).read()
 
 chars = sorted(list(set(raw_text)))
@@ -66,8 +66,8 @@ def get_windows(n, k, m):
     elif k < n:
         print(f'Must k > m"')
     else:
-        # prefix = lines[start][0:k]
-        prefix = "А за окном"
+        prefix = lines[start][0:k]
+        # prefix = "А за окном"
         print(f'Start:\n{prefix}')
         print("Gen:")
         start_window = prefix[len(prefix) - n:]

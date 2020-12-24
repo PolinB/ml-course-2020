@@ -8,10 +8,10 @@ from keras.optimizers import SGD
 from keras.utils import np_utils
 import re
 
-# filename = "lab8_files/saltan.txt"
+filename = "lab8_files/saltan.txt"
 # filename = "lab8_files/format-robinzon.txt"
 # filename = "lab8_files/wonderland.txt"
-filename = "lab8_files/format_wond.txt"
+# filename = "lab8_files/format_wond.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 raw_text = re.sub('\n+', '\n', raw_text)
@@ -46,13 +46,13 @@ model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 
 # filename = "lab8_files/saltan/weights-improvement-30-2.2312.hdf5"
-# filename = "lab8_files/saltan2/weights-improvement-30-1.5444.hdf5"
+filename = "lab8_files/saltan2/weights-improvement-30-1.5444.hdf5"
 # filename = "lab8_files/robinzon2/weights-improvement-20-2.0075.hdf5"
 # filename = "lab8_files/wonderland/weights-improvement-10-2.3477.hdf5"
 # filename = "lab8_files/wonderland2/weights-improvement-02-2.9100.hdf5"
 # filename = "lab8_files/wonderland3/weights-improvement-03-2.7619.hdf5"
 # filename = "lab8_files/wonderland4/weights-improvement-19-1.9738.hdf5"
-filename = "lab8_files/wonderland5/weights-improvement-30-1.3317.hdf5"
+# filename = "lab8_files/wonderland5/weights-improvement-30-1.3317.hdf5"
 model.load_weights(filename)
 sgd = SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss='categorical_crossentropy', optimizer=sgd)
