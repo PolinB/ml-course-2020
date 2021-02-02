@@ -1,8 +1,188 @@
-file_1
+file_1 3
 dataset = 1 accuracy = 0.8635312259059368 h = 2
 dataset = 1 accuracy = 0.9969159599074788 h = 3
 dataset = 1 accuracy = 0.9966589565664353 h = 4
 dataset = 1 accuracy = 0.995887946543305 h = 5
-Оптимальная = 3
 
-file_2
+file_2 5+
+dataset = 2 accuracy = 0.30229007633587784 h = 2
+dataset = 2 accuracy = 0.4287531806615776 h = 3
+dataset = 2 accuracy = 0.5066157760814249 h = 4
+dataset = 2 accuracy = 0.5480916030534351 h = 5
+
+file_3 2
+dataset = 3 accuracy = 1.0 h = 2
+dataset = 3 accuracy = 0.9995178399228544 h = 3
+dataset = 3 accuracy = 0.997589199614272 h = 4
+dataset = 3 accuracy = 0.9942140790742526 h = 5
+
+file_4 5+ 10-
+dataset = 4 accuracy = 0.8514782608695652 h = 2
+dataset = 4 accuracy = 0.8754782608695653 h = 3
+dataset = 4 accuracy = 0.959304347826087 h = 4
+dataset = 4 accuracy = 0.9867826086956522 h = 5
+dataset = 5 accuracy = 0.9588744588744589 h = 10
+dataset = 5 accuracy = 0.9588744588744589 h = 20
+
+file_5 2
+dataset = 5 accuracy = 0.9848484848484849 h = 2
+dataset = 5 accuracy = 0.9848484848484849 h = 3
+dataset = 5 accuracy = 0.9805194805194806 h = 4
+dataset = 5 accuracy = 0.9696969696969697 h = 5
+
+file_6 3
+dataset = 6 accuracy = 0.9608167770419426 h = 2
+dataset = 6 accuracy = 0.9966887417218543 h = 3
+dataset = 6 accuracy = 0.9961368653421634 h = 4
+dataset = 6 accuracy = 0.9812362030905077 h = 5
+
+file_7 3
+dataset = 7 accuracy = 0.8502325581395349 h = 2
+dataset = 7 accuracy = 0.9953488372093023 h = 3
+dataset = 7 accuracy = 0.9948837209302326 h = 4
+dataset = 7 accuracy = 0.9911627906976744 h = 5
+
+file_8  2
+dataset = 8 accuracy = 0.997920997920998 h = 2
+dataset = 8 accuracy = 0.9937629937629938 h = 3
+dataset = 8 accuracy = 0.9937629937629938 h = 4
+dataset = 8 accuracy = 0.9792099792099792 h = 5
+
+file_9 5+
+dataset = 9 accuracy = 0.5647058823529412 h = 2
+dataset = 9 accuracy = 0.7568627450980392 h = 3
+dataset = 9 accuracy = 0.807843137254902 h = 4
+dataset = 9 accuracy = 0.8509803921568627 h = 5
+
+file_10 4
+dataset = 10 accuracy = 0.7098591549295775 h = 2
+dataset = 10 accuracy = 0.9923541247484909 h = 3
+dataset = 10 accuracy = 0.9963782696177063 h = 4
+dataset = 10 accuracy = 0.9947686116700202 h = 5
+
+file_11 2
+dataset = 11 accuracy = 1.0 h = 2
+dataset = 11 accuracy = 1.0 h = 3
+dataset = 11 accuracy = 0.9995975855130784 h = 4
+dataset = 11 accuracy = 0.9947686116700202 h = 5
+
+file_12 15+ 20-
+dataset = 12 accuracy = 0.5363457760314342 h = 2
+dataset = 12 accuracy = 0.7347740667976425 h = 3
+dataset = 12 accuracy = 0.7771540836373843 h = 4
+dataset = 12 accuracy = 0.8301992702778558 h = 5
+dataset = 12 accuracy = 0.8683693516699411 h = 10
+dataset = 12 accuracy = 0.8568621947796801 h = 15
+dataset = 12 accuracy = 0.8568621947796801 h = 17
+dataset = 12 accuracy = 0.8568621947796801 h = 20
+
+file_13 5+ 10-
+dataset = 13 accuracy = 0.37155963302752293 h = 2
+dataset = 13 accuracy = 0.3963302752293578 h = 3
+dataset = 13 accuracy = 0.4981651376146789 h = 4
+dataset = 13 accuracy = 0.6110091743119266 h = 5
+dataset = 13 accuracy = 0.5697247706422018 h = 10
+dataset = 13 accuracy = 0.5587155963302752 h = 20
+
+file_14 5+ 10-
+dataset = 14 accuracy = 0.5769972983404091 h = 2
+dataset = 14 accuracy = 0.8483211115399459 h = 3
+dataset = 14 accuracy = 0.937475878039367 h = 4
+dataset = 14 accuracy = 0.9845619451949055 h = 5
+dataset = 14 accuracy = 0.936318023928985 h = 10
+dataset = 14 accuracy = 0.9104592821304516 h = 20
+
+file_15 2
+dataset = 15 accuracy = 0.9993993993993994 h = 2
+dataset = 15 accuracy = 0.9981981981981982 h = 3
+dataset = 15 accuracy = 0.9987987987987988 h = 4
+dataset = 15 accuracy = 0.9963963963963964 h = 5
+
+file_16 2
+dataset = 16 accuracy = 1.0 h = 2
+dataset = 16 accuracy = 1.0 h = 3
+dataset = 16 accuracy = 0.9993769470404984 h = 4
+dataset = 16 accuracy = 0.9981308411214953 h = 5
+
+file_17 5+ 10-
+dataset = 17 accuracy = 0.35678391959798994 h = 2
+dataset = 17 accuracy = 0.5203796761585706 h = 3
+dataset = 17 accuracy = 0.6761585706309324 h = 4
+dataset = 17 accuracy = 0.7855946398659966 h = 5
+dataset = 17 accuracy = 0.7766610831937465 h = 10
+dataset = 17 accuracy = 0.7716359575656058 h = 20
+
+file_18 5+ 10-
+dataset = 18 accuracy = 0.7177959791511541 h = 2
+dataset = 18 accuracy = 0.8123603871928519 h = 3
+dataset = 18 accuracy = 0.9411764705882353 h = 4
+dataset = 18 accuracy = 0.9426656738644825 h = 5
+dataset = 18 accuracy = 0.892777364110201 h = 10
+dataset = 18 accuracy = 0.8771407297096053 h = 20
+
+file_19 5+ 10-
+dataset = 19 accuracy = 0.5056264066016504 h = 2
+dataset = 19 accuracy = 0.6084021005251313 h = 3
+dataset = 19 accuracy = 0.6646661665416355 h = 4
+dataset = 19 accuracy = 0.7779444861215303 h = 5
+dataset = 19 accuracy = 0.7726931732933233 h = 10
+dataset = 19 accuracy = 0.7591897974493623 h = 20
+
+file_20 10+ 15-
+dataset = 20 accuracy = 0.7317749603803486 h = 2
+dataset = 20 accuracy = 0.8541996830427893 h = 3
+dataset = 20 accuracy = 0.8954041204437401 h = 4
+dataset = 20 accuracy = 0.9370047543581617 h = 5
+dataset = 20 accuracy = 0.9409667194928685 h = 10
+dataset = 20 accuracy = 0.9152139461172741 h = 15
+dataset = 20 accuracy = 0.911648177496038 h = 20
+
+file_21 15+ 20-
+dataset = 21 accuracy = 0.37285986049461 h = 2
+dataset = 21 accuracy = 0.4464172479391249 h = 3
+dataset = 21 accuracy = 0.5561192136968929 h = 4
+dataset = 21 accuracy = 0.605580215599239 h = 5
+dataset = 21 accuracy = 0.7824984147114775 h = 10
+dataset = 21 accuracy = 0.7805960684844642 h = 15
+dataset = 21 accuracy = 0.7805960684844642 h = 17
+dataset = 21 accuracy = 0.7805960684844642 h = 20
+
+on forest:
+
+file_10    0.5203219315895372
+file_11    0.7955734406438632
+file_12    0.5203480213303396
+file_13    0.3486238532110092
+file_14    0.49864917020455424
+file_15    0.9525525525525526
+file_16    0.6881619937694704
+file_17    0.41987716359575655
+file_18    0.5874906924795235
+file_19    0.4163540885221305
+file_20    0.5154516640253566
+file_21    0.40583386176284086
+
+file_1    0.5926497044461578
+file_2    0.38727735368956745
+file_3    0.8567984570877532
+file_4    0.652695652173913
+file_5    0.9134199134199135
+file_6    0.6801876379690949
+file_7    0.5918604651162791
+file_8    0.9553014553014553
+file_9    0.44019607843137254
+file_10    0.5221327967806841
+file_11    0.810261569416499
+file_12    0.5562728038170082
+file_13    0.3894495412844037
+file_14    0.5146661520648398
+file_15    0.921021021021021
+file_16    0.7445482866043613
+file_17    0.44500279173646007
+file_18    0.6321667907669397
+file_19    0.46886721680420107
+file_20    0.5425911251980983
+file_21    0.448002536461636
+
+Process finished with exit code 0
+
